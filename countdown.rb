@@ -9,4 +9,10 @@ end
 end
 
 def contdown_with_sleep(num)
-  
+    while num > 0
+  puts "#{num} SECOND(S)!"
+  num -= 1
+  sleep
+end
+"HAPPY NEW YEAR!"
+end
