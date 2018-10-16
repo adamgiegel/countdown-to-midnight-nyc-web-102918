@@ -7,5 +7,5 @@ if(num > 0)
   num -= 1
 else
   puts "HAPPY NEW YEAR!"
-
+end
 end
